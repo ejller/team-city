@@ -1,0 +1,1 @@
+export const GET_SPACEX_REQUEST = 'https://raw.githubusercontent.com/denissokolov/tc-internship-task/master/launches.json'
